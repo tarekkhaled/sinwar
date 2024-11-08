@@ -31,6 +31,48 @@ const resources = {
             'Because every demolished home has a story. Every uprooted olive tree has a history. Every displaced family has a right to return.',
         },
       },
+      amsterdam_incident: {
+        title: "The Amsterdam Football Match Incident and Media Manipulation",
+        zionist_claim: `Israeli citizens and football fans were viciously attacked in Amsterdam in what US antisemitism envoy called 'terribly reminiscent of classic pogrom', with Israeli media reporting unprovoked attacks by 'Middle Eastern migrants hunting down Jews in the streets of Amsterdam.' Israel claimed it needed to send rescue teams after what they described as a 'very violent incident' against their citizens.`,
+        palestine_response: {
+          description: `The reality of the Amsterdam incident exposes a calculated Israeli propaganda operation that follows their familiar pattern: provoke, attack, play victim, then manipulate media narratives. The sequence of events reveals a premeditated strategy that began even before the match.
+
+The Jerusalem Post published a telling article announcing that Mossad agents would accompany Maccabi Tel Aviv fans to Amsterdam - an unprecedented announcement that suggests premeditation for what would follow. This was not standard security protocol, but preparation for a planned provocation.
+
+The Israeli supporters' true intentions became clear at the match itself, where they showed profound disrespect during a one-minute silence for Spanish flood victims - a deliberate insult to Spain for its recognition of Palestine and stance against the Gaza genocide. But their most shocking behavior came when they chanted "There are no schools in Gaza because there are no children left" - celebrating their military's killing of over 12,000 Palestinian children.
+
+The Israeli fans then initiated a campaign of violence and provocation across Amsterdam:
+- Attacking local residents' homes
+- Assaulting Arab taxi drivers
+- Vandalizing Arab-owned businesses
+- Tearing down Palestinian flags
+- Chanting "Death to Arabs" and other racist slogans
+- Physically attacking Arab pedestrians
+
+When local youth, particularly from the Moroccan community, organized to defend their community from these attacks, the Israeli propaganda machine immediately activated. Within hours, the same media outlets that ignored the initial provocations and attacks began portraying the events as an antisemitic "pogrom."
+
+The truth emerged through unexpected sources. A Dutch woman who filmed one of the key incidents exposed how Israeli media was misrepresenting her footage, confirming that it actually showed Maccabi supporters initiating violence against a Dutch citizen. Even the traditionally pro-Israel Daily Mail broke ranks to report the truth: that Israeli hooligans were the instigators who tore down Palestinian flags and attacked locals.
+
+This incident perfectly encapsulates Israel's broader propaganda strategy post-October 7:
+- Initiate violence and provocation
+- When met with resistance, immediately claim victimhood
+- Mobilize compliant media to push a false narrative
+- Use the manufactured incident to justify further aggression
+- Suppress or discredit evidence of their initial provocations
+
+The Amsterdam incident demonstrates how Israeli propaganda operates - provoking violence, then manipulating the narrative to portray themselves as victims, exactly as they did with October 7 to justify their genocide in Gaza. But just as the truth emerged in Amsterdam thanks to local witnesses and honest journalism, the broader truth about their actions in Gaza cannot be forever obscured by propaganda.`,
+        },
+        resources: [
+            'https://x.com/Megatron_ron/status/1854899703634153754',
+            'https://www.jpost.com/israel-news/sports/article-827683',
+            'https://www.dailymail.co.uk/sport/football/article-14053391/Israeli-football-hooligans-Palestine-flags-Ajax-Maccabi-Tel-Aviv.html',
+            'https://x.com/Mehmetcanbekli1/status/1854880338427732127',
+            'https://x.com/SenpaiTheories/status/1854701914354503721',
+            'https://news.sky.com/story/israel-says-it-will-deploy-rescue-mission-after-violent-incident-targeting-israeli-citizens-in-amsterdam-13250370',
+            'https://x.com/Megatron_ron/status/1854907447577600437',
+            'https://x.com/Johnpatrick500/status/1854841403685142852'
+        ]
+      },
       sinwar_tunnel: {
         title: 'Al Sinwar Tunnel Hiding Narrative',
         zionist_claim:
@@ -377,6 +419,48 @@ const resources = {
           callToAction: 'انضموا إلينا في الحفاظ على روايتنا، وحماية تراثنا، وتعزيز حقيقتنا.',
           impact: 'لأن لكل منزل مهدوم قصة. ولكل شجرة زيتون مقتلعة تاريخ. ولكل عائلة مهجرة الحق في العودة.'
         }
+      },
+      amsterdam_incident: {
+        title: "أحداث مباراة أمستردام والتلاعب الإعلامي",
+        zionist_claim: `زعمت إسرائيل أن مواطنيها ومشجعي كرة القدم تعرضوا لهجوم وحشي في أمستردام فيما وصفه مبعوث الولايات المتحدة لمكافحة معاداة السامية بأنه 'يذكر بشكل مروع بالمذابح التقليدية'، حيث نقلت وسائل الإعلام الإسرائيلية عن هجمات غير مبررة من قبل 'مهاجرين من الشرق الأوسط يطاردون اليهود في شوارع أمستردام.' وادعت إسرائيل أنها بحاجة إلى إرسال فرق إنقاذ بعد ما وصفته بـ 'حادث عنيف للغاية' ضد مواطنيها.`,
+        palestine_response: {
+          description: `تكشف حقيقة حادثة أمستردام عن عملية دعائية إسرائيلية محسوبة تتبع نمطهم المعتاد: الاستفزاز، ثم الهجوم، ثم لعب دور الضحية، ثم التلاعب بالروايات الإعلامية. يكشف تسلسل الأحداث عن استراتيجية مدبرة بدأت حتى قبل المباراة.
+
+نشرت جريدة جيروزاليم بوست مقالاً كاشفاً يعلن أن عملاء الموساد سيرافقون مشجعي مكابي تل أبيب إلى أمستردام - وهو إعلان غير مسبوق يشير إلى التحضير المسبق لما سيتبع. لم يكن هذا بروتوكول أمني قياسي، بل تحضير لاستفزاز مخطط له.
+
+ظهرت النوايا الحقيقية للمشجعين الإسرائيليين في المباراة نفسها، حيث أظهروا استخفافاً صارخاً خلال دقيقة صمت لضحايا الفيضانات الإسبانية - وهي إهانة متعمدة لإسبانيا لاعترافها بفلسطين وموقفها من الإبادة الجماعية في غزة. لكن سلوكهم الأكثر صدمة جاء عندما هتفوا "لا توجد مدارس في غزة لأنه لم يتبق أطفال" - محتفلين بقتل جيشهم لأكثر من 12,000 طفل فلسطيني.
+
+ثم بدأ المشجعون الإسرائيليون حملة عنف واستفزاز في جميع أنحاء أمستردام:
+ مهاجمة منازل السكان المحليين
+- الاعتداء على سائقي سيارات الأجرة العرب
+- تخريب الأعمال التجارية المملوكة للعرب
+- تمزيق الأعلام الفلسطينية
+- الهتاف "الموت للعرب" وشعارات عنصرية أخرى
+- الاعتداء الجسدي على المارة العرب
+
+عندما نظم الشباب المحليون، وخاصة من الجالية المغربية، أنفسهم للدفاع عن مجتمعهم من هذه الهجمات، تم تفعيل آلة الدعاية الإسرائيلية على الفور. في غضون ساعات، بدأت نفس وسائل الإعلام التي تجاهلت الاستفزازات والهجمات الأولية في تصوير الأحداث على أنها "مذبحة" معادية للسامية.
+
+ظهرت الحقيقة من خلال مصادر غير متوقعة. كشفت امرأة هولندية صورت أحد الحوادث الرئيسية كيف كانت وسائل الإعلام الإسرائيلية تسيء تمثيل لقطاتها، مؤكدة أنها أظهرت في الواقع مشجعي مكابي وهم يبدأون العنف ضد مواطن هولندي. حتى صحيفة الديلي ميل المؤيدة تقليدياً لإسرائيل خرجت عن الصف لنقل الحقيقة: أن المشاغبين الإسرائيليين كانوا هم المحرضين الذين مزقوا الأعلام الفلسطينية وهاجموا السكان المحليين.
+
+هذه الحادثة تلخص بشكل مثالي استراتيجية الدعاية الإسرائيلية بعد 7 أكتوبر:
+- بدء العنف والاستفزاز
+- عند مواجهة المقاومة، ادعاء دور الضحية فوراً
+- تعبئة وسائل الإعلام المتواطئة لدفع رواية كاذبة
+- استخدام الحادث المفبرك لتبرير المزيد من العدوان
+- قمع أو تشويه الأدلة على استفزازاتهم الأولية
+
+تظهر حادثة أمستردام كيفية عمل الدعاية الإسرائيلية - استفزاز العنف، ثم التلاعب بالرواية لتصوير أنفسهم كضحايا، تماماً كما فعلوا مع 7 أكتوبر لتبرير إبادتهم الجماعية في غزة. ولكن تماماً كما ظهرت الحقيقة في أمستردام بفضل الشهود المحليين والصحافة الصادقة، لا يمكن إخفاء الحقيقة الأوسع عن أفعالهم في غزة إلى الأبد من خلال الدعاية.`,
+        },
+        resources: [
+          'https://x.com/Megatron_ron/status/1854899703634153754',
+          'https://www.jpost.com/israel-news/sports/article-827683',
+          'https://www.dailymail.co.uk/sport/football/article-14053391/Israeli-football-hooligans-Palestine-flags-Ajax-Maccabi-Tel-Aviv.html',
+          'https://x.com/Mehmetcanbekli1/status/1854880338427732127',
+          'https://x.com/SenpaiTheories/status/1854701914354503721',
+          'https://news.sky.com/story/israel-says-it-will-deploy-rescue-mission-after-violent-incident-targeting-israeli-citizens-in-amsterdam-13250370',
+          'https://x.com/Megatron_ron/status/1854907447577600437',
+          'https://x.com/Johnpatrick500/status/1854841403685142852'
+        ]
       },
       sinwar_tunnel: {
         title: 'اختباء السنوار في الأنفاق',

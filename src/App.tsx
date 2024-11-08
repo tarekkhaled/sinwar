@@ -13,6 +13,7 @@ const App: React.FC = () => {
   };
 
   const narrativeKeys = [
+      'amsterdam_incident',
     'sinwar_wife',
     'sinwar_tunnel',
     'alshifa_tunnel',

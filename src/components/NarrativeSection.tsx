@@ -1,6 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { ChevronDown, ChevronUp, Link } from 'lucide-react';
+import FormattedDescription from './FormattedDescription.tsx'
 
 interface NarrativeSectionProps {
   narrativeKey: string;
@@ -52,9 +53,7 @@ const NarrativeSection: React.FC<NarrativeSectionProps> = ({
             <h3 className="text-lg font-semibold text-green-700 mb-2">
               {isRTL ? 'الرد:' : 'Response:'}
             </h3>
-            <p className="text-gray-700">
-              {t(`${basePath}.palestine_response.description`)}
-            </p>
+            <FormattedDescription text={t(`${basePath}.palestine_response.description`)} />
           </div>
 
           {resources && resources.length > 0 && (
