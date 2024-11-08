@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-primary: 'Noto Sans', sans-serif;
+  }
+
+  body {
+    @apply font-primary;
+  }
+
+  /* RTL Specific Styles */
+  [dir="rtl"] {
+  body {
+    @apply font-arabic;
+  }
+
+  p, article {
+    @apply font-arabic-content;
+  }
+
+  .prose {
+    text-align: right;
+  }
+
+  .list-disc {
+    padding-right: 1.25rem;
+    padding-left: 0;
+  }
+
+  /* RTL Navigation */
+  .nav-item {
+    @apply mr-0 ml-6;
+  }
+
+  /* RTL Icons with Text */
+  .icon-text {
+    @apply flex-row-reverse;
+  }
+
+  /* RTL Buttons */
+  .btn-icon {
+    @apply flex-row-reverse;
+  }
+
+  /* RTL Content Alignment */
+  .content-wrapper {
+    @apply text-right;
+  }
+}
+
+/* LTR Specific Styles */
+[dir="ltr"] {
+.list-disc {
+  padding-left: 1.25rem;
+  padding-right: 0;
+}
+
+.nav-item {
+  @apply ml-0 mr-6;
+}
+}
+}
